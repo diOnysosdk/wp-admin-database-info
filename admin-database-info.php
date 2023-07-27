@@ -2,7 +2,7 @@
 /*
 Plugin Name: Database & table Info
 Description: Display database & table information in the WordPress admin area. Also allows you to view the first 10 rows of any table in the database.
-Version: 0.1
+Version: 0.11
 Author: <a href="https://www.linkedin.com/in/dennis-kjaer-christensen/">Dennis K. Christensen</a> | <a href="https://visualbusiness.dk">Visual Business</a>
 */
 
