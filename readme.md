@@ -1,0 +1,1 @@
+An admin database viewer plugin for wordpress
